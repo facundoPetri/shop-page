@@ -45,7 +45,7 @@ const App = () => {
     <Router>
       <div className="App">
         <Navbar cartLength={cart.length} />
-        <Route exact path="/">
+        <Route exact path="/shop-page">
           <Home />
         </Route>
         <Route exact path="/shop">

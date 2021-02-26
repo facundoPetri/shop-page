@@ -4,7 +4,7 @@ const Navbar = (props) => {
   return (
     <nav>
       <li className="nav-links">
-        <Link to="/">
+        <Link to="/shop-page">
           <i className="fas fa-home link"></i>
         </Link>
       </li>

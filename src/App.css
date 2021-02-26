@@ -22,7 +22,7 @@ nav {
   background-color: rgba(17, 17, 17, 0.342);
 }
 body {
-  background-image: url("./bg.jpg");
+  background-image: url("./images/bg.jpg");
 }
 .home-container {
   display: flex;

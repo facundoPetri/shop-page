@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/shop-page/static/css/main.b8cc27bc.chunk.css",
-    "main.js": "/shop-page/static/js/main.d9e666d6.chunk.js",
-    "main.js.map": "/shop-page/static/js/main.d9e666d6.chunk.js.map",
+    "main.css": "/shop-page/static/css/main.ea5f34be.chunk.css",
+    "main.js": "/shop-page/static/js/main.1a0aa2c4.chunk.js",
+    "main.js.map": "/shop-page/static/js/main.1a0aa2c4.chunk.js.map",
     "runtime-main.js": "/shop-page/static/js/runtime-main.8e0ad24f.js",
     "runtime-main.js.map": "/shop-page/static/js/runtime-main.8e0ad24f.js.map",
     "static/js/2.cdaa444f.chunk.js": "/shop-page/static/js/2.cdaa444f.chunk.js",
     "static/js/2.cdaa444f.chunk.js.map": "/shop-page/static/js/2.cdaa444f.chunk.js.map",
     "index.html": "/shop-page/index.html",
-    "static/css/main.b8cc27bc.chunk.css.map": "/shop-page/static/css/main.b8cc27bc.chunk.css.map",
+    "static/css/main.ea5f34be.chunk.css.map": "/shop-page/static/css/main.ea5f34be.chunk.css.map",
     "static/js/2.cdaa444f.chunk.js.LICENSE.txt": "/shop-page/static/js/2.cdaa444f.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/shop-page/static/media/bg.98d6bac5.jpg"
+    "static/media/af1.65100a8f.jpg": "/shop-page/static/media/af1.65100a8f.jpg",
+    "static/media/aj1.1446efdb.webp": "/shop-page/static/media/aj1.1446efdb.webp",
+    "static/media/am90.02370244.jpg": "/shop-page/static/media/am90.02370244.jpg",
+    "static/media/App.css": "/shop-page/static/media/bg.98d6bac5.jpg",
+    "static/media/converse.e0735ff8.jpg": "/shop-page/static/media/converse.e0735ff8.jpg",
+    "static/media/sbdunk.fb83a501.jpg": "/shop-page/static/media/sbdunk.fb83a501.jpg",
+    "static/media/vans.4967d0e3.jpg": "/shop-page/static/media/vans.4967d0e3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8e0ad24f.js",
     "static/js/2.cdaa444f.chunk.js",
-    "static/css/main.b8cc27bc.chunk.css",
-    "static/js/main.d9e666d6.chunk.js"
+    "static/css/main.ea5f34be.chunk.css",
+    "static/js/main.1a0aa2c4.chunk.js"
   ]
 }
